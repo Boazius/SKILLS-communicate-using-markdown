@@ -11,3 +11,8 @@ def foo()
   for a in range(1,10):
     print(a)
 ```
+
+## We will now add a Task list
+- [x] Refresh yourself on github
+- [ ] Add some more projects you did to github
+- [ ] Make readmes and documentation to all projects
